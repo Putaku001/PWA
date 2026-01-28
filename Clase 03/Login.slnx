@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="Datos/Datos.csproj" />
-  <Project Path="Negocios/Negocios.csproj" />
-  <Project Path="Presentacion/Presentacion.csproj" />
+  <Project Path="Datos/Datos.csproj" Id="d020ba46-acac-464a-b786-021a57256e03" />
+  <Project Path="Negocios/Negocios.csproj" Id="8608511b-aa90-4ffd-ad91-a84d89487afa" />
+  <Project Path="Presentacion/Presentacion.csproj" Id="ad20ea4c-5fc5-4d8e-b626-c4edcf481464" />
 </Solution>

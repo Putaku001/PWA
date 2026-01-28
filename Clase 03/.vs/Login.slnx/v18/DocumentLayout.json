@@ -3,35 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|c:\\users\\kenne\\onedrive\\documentos\\paginas web activas\\login\\presentacion\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|c:\\users\\kenne\\onedrive\\documentos\\paginas web activas\\login\\presentacion\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\presentacion\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D020BA46-ACAC-464A-B786-021A57256E03}|Datos\\Datos.csproj|c:\\users\\kenne\\onedrive\\documentos\\paginas web activas\\login\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\presentacion\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|c:\\users\\kenne\\onedrive\\documentos\\paginas web activas\\login\\presentacion\\style\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\style\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D020BA46-ACAC-464A-B786-021A57256E03}|Datos\\Datos.csproj|C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D020BA46-ACAC-464A-B786-021A57256E03}|Datos\\Datos.csproj|solutionrelative:datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|c:\\users\\kenne\\onedrive\\documentos\\paginas web activas\\login\\presentacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|c:\\users\\kenne\\onedrive\\documentos\\paginas web activas\\login\\presentacion\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|c:\\users\\kenne\\onedrive\\documentos\\paginas web activas\\login\\presentacion\\principal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\principal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D020BA46-ACAC-464A-B786-021A57256E03}|Datos\\Datos.csproj|c:\\users\\kenne\\onedrive\\documentos\\paginas web activas\\login\\datos\\cdpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D020BA46-ACAC-464A-B786-021A57256E03}|Datos\\Datos.csproj|C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\datos\\cdpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D020BA46-ACAC-464A-B786-021A57256E03}|Datos\\Datos.csproj|solutionrelative:datos\\cdpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8608511B-AA90-4FFD-AD91-A84D89487AFA}|Negocios\\Negocios.csproj|c:\\users\\kenne\\onedrive\\documentos\\paginas web activas\\login\\negocios\\cnpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\presentacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\presentacion\\principal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\principal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8608511B-AA90-4FFD-AD91-A84D89487AFA}|Negocios\\Negocios.csproj|C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\negocios\\cnpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8608511B-AA90-4FFD-AD91-A84D89487AFA}|Negocios\\Negocios.csproj|solutionrelative:negocios\\cnpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,59 +46,33 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Principal.aspx",
-              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Presentacion\\Principal.aspx",
-              "RelativeDocumentMoniker": "Presentacion\\Principal.aspx",
-              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Presentacion\\Principal.aspx",
-              "RelativeToolTip": "Presentacion\\Principal.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-01-27T23:41:14.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "index.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Presentacion\\index.aspx.cs",
-              "RelativeDocumentMoniker": "Presentacion\\index.aspx.cs",
-              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Presentacion\\index.aspx.cs",
-              "RelativeToolTip": "Presentacion\\index.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T23:40:12.401Z",
+              "DocumentIndex": 2,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Presentacion\\Style\\Style.css",
+              "RelativeDocumentMoniker": "Presentacion\\Style\\Style.css",
+              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Presentacion\\Style\\Style.css",
+              "RelativeToolTip": "Presentacion\\Style\\Style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-28T03:50:34.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Presentacion\\Web.config",
-              "RelativeDocumentMoniker": "Presentacion\\Web.config",
-              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Presentacion\\Web.config",
-              "RelativeToolTip": "Presentacion\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-01-27T23:30:36.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Datos\\Conexion.cs",
               "RelativeDocumentMoniker": "Datos\\Conexion.cs",
               "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Datos\\Conexion.cs",
               "RelativeToolTip": "Datos\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T23:20:29.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "CDPersonas.cs",
               "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Datos\\CDPersonas.cs",
               "RelativeDocumentMoniker": "Datos\\CDPersonas.cs",
@@ -106,12 +80,11 @@
               "RelativeToolTip": "Datos\\CDPersonas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T23:37:32.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T23:37:32.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "index.aspx",
               "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Presentacion\\index.aspx",
               "RelativeDocumentMoniker": "Presentacion\\index.aspx",
@@ -124,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Principal.aspx.cs",
               "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Presentacion\\Principal.aspx.cs",
               "RelativeDocumentMoniker": "Presentacion\\Principal.aspx.cs",
@@ -132,7 +105,32 @@
               "RelativeToolTip": "Presentacion\\Principal.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T23:41:34.127Z",
+              "WhenOpened": "2026-01-27T23:41:34.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.aspx",
+              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Presentacion\\Principal.aspx",
+              "RelativeDocumentMoniker": "Presentacion\\Principal.aspx",
+              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Presentacion\\Principal.aspx",
+              "RelativeToolTip": "Presentacion\\Principal.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-27T23:41:14.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Presentacion\\Web.config",
+              "RelativeDocumentMoniker": "Presentacion\\Web.config",
+              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Presentacion\\Web.config",
+              "RelativeToolTip": "Presentacion\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-27T23:30:36.886Z",
               "EditorCaption": ""
             },
             {
@@ -143,10 +141,9 @@
               "RelativeDocumentMoniker": "Negocios\\CNPersonas.cs",
               "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Negocios\\CNPersonas.cs",
               "RelativeToolTip": "Negocios\\CNPersonas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T23:20:11.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T23:20:11.061Z"
             }
           ]
         }

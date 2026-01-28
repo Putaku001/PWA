@@ -70,6 +70,7 @@
     <Content Include="Global.asax" />
     <Content Include="index.aspx" />
     <Content Include="Principal.aspx" />
+    <Content Include="Style\Style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
