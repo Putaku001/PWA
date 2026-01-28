@@ -8,7 +8,6 @@ namespace Negocios
 
         public bool Login(string usuario, string clave)
         {
-            // Regla simple como en la guía
             if (string.IsNullOrWhiteSpace(usuario) || string.IsNullOrWhiteSpace(clave))
                 return false;
 

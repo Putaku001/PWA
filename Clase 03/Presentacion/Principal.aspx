@@ -7,7 +7,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <h2>✅ Login correcto</h2>
+        <h2>Login correcto</h2>
         <p>Bienvenido.</p>
     </form>
 </body>
