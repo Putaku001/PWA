@@ -23,6 +23,9 @@ namespace Presentacion
             Response.Redirect("index.aspx");
         }
 
-        
+        protected void btnHabitaciones_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("habitaciones.aspx");
+        }
     }
 }

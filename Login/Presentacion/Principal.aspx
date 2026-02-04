@@ -13,7 +13,7 @@
             <h1>Usuario:</h1><asp:Label ID="lblUsuario" runat="server" Text="Label"></asp:Label>
         </div>
         <asp:Button ID="out" runat="server" Text="Cerrar Sesion" onclik="out_Click" OnClick="out_Click"/>
-
+        <asp:Button ID="btnHabitaciones" runat="server" Text="Habitaciones" OnClick="btnHabitaciones_Click" />
     </form>
 </body>
 </html>
