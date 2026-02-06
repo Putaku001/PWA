@@ -23,5 +23,26 @@ namespace Presentacion
             GridView1.DataSource = _habitaciones.ObtenerhabitacionesN();
             GridView1.DataBind();
         }
+
+        protected void btnGuardar_Click(object sender, EventArgs e)
+        {
+            int numero = Convert.ToInt32(txtNumero.Text);
+            string descripcion = txtDescripcion.Text;
+            int cant = Convert.ToInt32(txtCant.Text);
+
+            bool correcto = _habitaciones.agregar_habitaciones(numero, descripcion, cant);
+            
+                if (correcto)
+                {
+                    Response.Write("<script>alert('Habitacion Agregada')</script>");
+                    CargarGrid();
+                }
+                else
+                {
+                    Response.Write("<script>alert('Error al agregar Habitacion')</script>");
+                }
+
+             
+        }
     }
 }

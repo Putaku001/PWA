@@ -10,7 +10,18 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <h2> Agregar Habitaciones</h2>
+            <asp:Label ID="lblNumero" runat="server" Text="Numero de Habitacion:"></asp:Label> <br />
+            <asp:TextBox ID="txtNumero" runat="server"></asp:TextBox> <br />
+            <asp:Label ID="lbldescripcion" runat="server" Text="Descripcion General:"></asp:Label><br />
+            <asp:TextBox ID="txtDescripcion" runat="server"></asp:TextBox><br />
+            <asp:Label ID="Lblcant" runat="server" Text="Cantidad de Huespedes Permitidos:"></asp:Label><br />
+            <asp:TextBox ID="txtCant" runat="server"></asp:TextBox> <br />
+
+            <asp:Button ID="btnGuardar" runat="server" Text="Guardar" OnClick="btnGuardar_Click" />
+            
         </div>
+        <hr />
            
         <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="false">
             <columns> 
