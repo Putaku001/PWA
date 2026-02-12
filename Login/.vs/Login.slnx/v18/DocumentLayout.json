@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D020BA46-ACAC-464A-B786-021A57256E03}|Datos\\Datos.csproj|C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\datos\\cdhabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D020BA46-ACAC-464A-B786-021A57256E03}|Datos\\Datos.csproj|solutionrelative:datos\\cdhabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|c:\\users\\kenne\\onedrive\\documentos\\paginas web activas\\login\\presentacion\\habitaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\habitaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|c:\\users\\kenne\\onedrive\\documentos\\paginas web activas\\login\\presentacion\\habitaciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\presentacion\\habitaciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\habitaciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\presentacion\\habitaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AD20EA4C-5FC5-4D8E-B626-C4EDCF481464}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\habitaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{D020BA46-ACAC-464A-B786-021A57256E03}|Datos\\Datos.csproj|C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\datos\\cdhabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D020BA46-ACAC-464A-B786-021A57256E03}|Datos\\Datos.csproj|solutionrelative:datos\\cdhabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8608511B-AA90-4FFD-AD91-A84D89487AFA}|Negocios\\Negocios.csproj|C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\negocios\\cnhabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,21 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "habitaciones.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Presentacion\\habitaciones.aspx.cs",
-              "RelativeDocumentMoniker": "Presentacion\\habitaciones.aspx.cs",
-              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Presentacion\\habitaciones.aspx.cs",
-              "RelativeToolTip": "Presentacion\\habitaciones.aspx.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T17:55:22.1Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -92,20 +79,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CDHabitaciones.cs",
               "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Datos\\CDHabitaciones.cs",
               "RelativeDocumentMoniker": "Datos\\CDHabitaciones.cs",
               "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Datos\\CDHabitaciones.cs",
               "RelativeToolTip": "Datos\\CDHabitaciones.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwCwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T17:34:52.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "habitaciones.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Presentacion\\habitaciones.aspx.cs",
+              "RelativeDocumentMoniker": "Presentacion\\habitaciones.aspx.cs",
+              "ToolTip": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Presentacion\\habitaciones.aspx.cs",
+              "RelativeToolTip": "Presentacion\\habitaciones.aspx.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T17:55:22.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "habitaciones.aspx",
               "DocumentMoniker": "C:\\Users\\kenne\\OneDrive\\Documentos\\Paginas web Activas\\Login\\Presentacion\\habitaciones.aspx",
               "RelativeDocumentMoniker": "Presentacion\\habitaciones.aspx",

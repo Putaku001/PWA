@@ -42,7 +42,58 @@ namespace Presentacion
                     Response.Write("<script>alert('Error al agregar Habitacion')</script>");
                 }
 
+
              
+        }
+
+        protected void GridView1_RowEditing(object sender, GridViewEditEventArgs e)
+        {
+            GridView1.EditIndex = e.NewEditIndex;
+            CargarGrid();
+        }
+
+        protected void GridView1_RowCancelingEdit(object sender, GridViewCancelEditEventArgs e)
+        {
+            GridView1.EditIndex = -1;
+            CargarGrid();
+        }
+
+        protected void GridView1_RowUpdating(object sender, GridViewUpdateEventArgs e)
+        {
+            int id = Convert.ToInt32(GridView1.DataKeys[e.RowIndex].Value);
+
+            GridViewRow row = GridView1.Rows[e.RowIndex];
+            int numero = Convert.ToInt32(((TextBox)row.Cells[1].Controls[0]).Text);
+            string descripcion = ((TextBox)row.Cells[2].Controls[0]).Text;
+            int cant = Convert.ToInt32(((TextBox)row.Cells[3].Controls[0]).Text);
+
+            bool correcto = _habitaciones.actualizar_habitaciones(id, numero, descripcion, cant);
+            if (correcto)
+            {
+                Response.Write("<script>alert('Habitacion Actualizada')</script>");
+                GridView1.EditIndex = -1;
+                CargarGrid();
+            }
+            else
+            {
+                Response.Write("<script>alert('Error al actualizar Habitacion')</script>");
+            }
+        }
+
+        protected void GridView1_RowDeleting(object sender, GridViewDeleteEventArgs e)
+        {
+            int id = Convert.ToInt32(GridView1.DataKeys[e.RowIndex].Value);
+
+            bool correcto = _habitaciones.eliminar_habitaciones(id);
+            if (correcto)
+            {
+                Response.Write("<script>alert('Habitacion Eliminada')</script>");
+                CargarGrid();
+            }
+            else
+            {
+                Response.Write("<script>alert('Error al eliminar Habitacion')</script>");
+            }
         }
     }
 }

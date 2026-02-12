@@ -49,5 +49,46 @@ namespace Datos
                 }
             }
         }
+
+        public bool ActualizarHabitacion(int id, int numero, string descripcion, int cantidad)
+        {
+            using (SqlConnection con = Conexion.obtenerConexion())
+            {
+                con.Open();
+                using (SqlCommand cmd = new SqlCommand(
+                    "UPDATE habitaciones SET numero=@numero, descripcion=@descripcion, cant_huespedes=@cant WHERE id_habitaciones=@id",
+                    con))
+                {
+                    cmd.Parameters.AddWithValue("@id", id);
+                    cmd.Parameters.AddWithValue("@numero", numero);
+                    cmd.Parameters.AddWithValue("@descripcion", descripcion);
+                    cmd.Parameters.AddWithValue("@cant", cantidad);
+
+                    int filas = cmd.ExecuteNonQuery();
+
+                    con.Close();
+                    return filas > 0;
+                }
+            }
+        }
+
+        public bool EliminarHabitacion(int id)
+        {
+            using (SqlConnection con = Conexion.obtenerConexion())
+            {
+                con.Open();
+                using (SqlCommand cmd = new SqlCommand(
+                    "DELETE FROM habitaciones WHERE id_habitaciones=@id",
+                    con))
+                {
+                    cmd.Parameters.AddWithValue("@id", id);
+
+                    int filas = cmd.ExecuteNonQuery();
+
+                    con.Close();
+                    return filas > 0;
+                }
+            }
+        }
     }
 }

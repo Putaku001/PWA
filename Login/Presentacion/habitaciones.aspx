@@ -6,6 +6,7 @@
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
+    <link rel="stylesheet" href="Style/Style.css" />
 </head>
 <body>
     <form id="form1" runat="server">
@@ -23,13 +24,20 @@
         </div>
         <hr />
            
-        <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="false">
-            <columns> 
-                <asp:BoundField DataField="id_habitaciones" HeaderText="ID" />
+        <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="false"
+            DataKeyNames="id_habitaciones"
+            OnRowEditing="GridView1_RowEditing"
+            OnRowUpdating="GridView1_RowUpdating"
+            OnRowCancelingEdit="GridView1_RowCancelingEdit"
+            OnRowDeleting="GridView1_RowDeleting">
+            <Columns>
+                <asp:BoundField DataField="id_habitaciones" HeaderText="ID" ReadOnly="true" />
                 <asp:BoundField DataField="numero" HeaderText="#" />
                 <asp:BoundField DataField="descripcion" HeaderText="Descripcion"/>
                 <asp:BoundField DataField="cant_huespedes" HeaderText="Max-Personas" />
-            </columns> 
+                <asp:CommandField ShowEditButton="true" EditText="Editar" UpdateText="Actualizar" CancelText="Cancelar" />
+                <asp:CommandField ShowDeleteButton="true" DeleteText="Eliminar" />
+            </Columns>
         </asp:GridView>
            
     </form>
